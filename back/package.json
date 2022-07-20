@@ -1,0 +1,22 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "date-utils": "^1.2.21",
+    "express": "^4.18.1",
+    "iconv-lite": "^0.6.3",
+    "mysql": "^2.18.1",
+    "node-mysql": "^0.4.2",
+    "node-schedule": "^2.1.0",
+    "request": "^2.88.2"
+  }
+}
